@@ -1,0 +1,20 @@
+1 Crear Servidor con express
+    1 Con un get ('/home') -> index.html
+    2 Con dos Get que reciban: - Primero un parametro
+                                - Segundo 3 parametros que tengan ( % ? -- $ ) 
+   
+3 GET EN TOTAL
+
+   2 Html
+    1.Estrucura boostrap Container,row, 2 col-6->responsive sean 12.
+    2. que tengan 2 html con dos enlaces ( <a href=""> </a> ) para cambiar de un html a otro
+
+
+
+2 HTML EN TOTAL
+
+-Primer paso crear app.js
+-Segundo paso npm init
+-Tercer instalar librerias y modificar el package.json
+-Cuarto paso logica
+
